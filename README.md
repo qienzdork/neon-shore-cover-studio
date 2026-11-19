@@ -1,8 +1,8 @@
 # Neon Shore Cover Studio
 
-[![make.fun — entry](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/competitions/gta6-cover-art-01)
-[![make.fun — originality: 100% original](https://img.shields.io/badge/make.fun-originality-100%25%20original-brightgreen)](https://make.fun/competitions/gta6-cover-art-01)
-[![make.fun — program: v1](https://img.shields.io/badge/make.fun-program-v1-blue)](https://make.fun/competitions/gta6-cover-art-01)
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/qienzdork/neon-shore-cover-studio/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/qienzdork/neon-shore-cover-studio/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
 An offline web app that turns your photos into poster-style cover art for the
 fictional open-world game "Neon Shore". It is a cover-creation studio, not a
